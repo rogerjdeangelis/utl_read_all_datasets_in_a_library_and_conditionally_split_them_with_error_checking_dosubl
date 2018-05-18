@@ -1,0 +1,2 @@
+# utl_read_all_datasets_in_a_library_and_conditionally_split_them_with_error_checking_dosubl
+Read all datasets in a library and conditionally split them with error checking dosubl.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
